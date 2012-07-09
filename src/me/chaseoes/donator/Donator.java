@@ -17,6 +17,7 @@ import java.util.logging.Logger;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Donator extends JavaPlugin {
+
 	/* Please remember that this plugin is still highly beta!
 	 * If you would like to contribute please submit a pull request, thanks!
 	 */

@@ -11,3 +11,4 @@ packages:
     price: 5.00
     commands:
     - msg %player Thanks for donating $%amount!
+   

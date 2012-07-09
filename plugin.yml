@@ -8,3 +8,4 @@ commands:
   donate:
     description: Do you wish to donate?
     usage: /donate
+   
