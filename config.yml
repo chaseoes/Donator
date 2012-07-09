@@ -1,0 +1,13 @@
+database:
+  hostname: localhost
+  database_name: my_database
+  username: username
+  password: abc123
+  port: 3306
+settings:
+  checkdelay: 10
+packages:
+  donator:
+    price: 5.00
+    commands:
+    - msg %player Thanks for donating $%amount!

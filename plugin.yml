@@ -1,0 +1,10 @@
+name: Donator
+main: me.chaseoes.donator.Donator
+version: 1.0
+description: Instant payment notifications and more.
+author: chaseoes
+website: http://a1chase.com
+commands:
+  donate:
+    description: Do you wish to donate?
+    usage: /donate
