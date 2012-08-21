@@ -5,10 +5,9 @@ database:
   password: abc123
   port: 3306
 settings:
-  checkdelay: 10
-packages:
-  donator:
-    price: 5.00
-    commands:
-    - msg %player Thanks for donating $%amount!
-   
+  checkdelay: 30
+  sandbox: false
+  debug: false
+  cumulativepackages: true
+  enablesignwall: false
+  broadcast-message: '&aPlease thank %player for donating %amount!'
