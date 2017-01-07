@@ -3,7 +3,7 @@ main: me.chaseoes.donator.Donator
 version: 2.0
 description: Instant payment notifications and more.
 author: chaseoes
-website: http://a1chase.com
+website: http://chaseoes.com
 commands:
   donate:
     description: Do you wish to donate?
